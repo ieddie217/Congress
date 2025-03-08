@@ -9,14 +9,15 @@ The solution consists of two complementary applications:
 - A front-end mobile PowerApp for event attendees to view schedules, register for sessions, and access event information
 
 ![Congress App Dashboard](Images/Congress%20Info.png)
-![Congress App Dashboard](Images/Congress%20UI.png)
 ![Congress App Dashboard](Images/Mobile.png)
-![Congress App Dashboard](Images/Congress%20Screenshot%20-%20Agenda.png)
+![Congress App Dashboard](Images/Congress%20UI.png)
+
 
 ## Key Features
 
 - **Event Creation and Configuration**: Easily set up new events with customizable fields for venue, date, capacity, and event type.
 - **Agenda/Schedule Management**: Create and manage multi-day, multi-track event schedules.
+![Congress App Dashboard](Images/Congress%20Screenshot%20-%20Agenda.png)
 - **Speaker Management**: Track speaker information, presentations, availability, and attendance history.
 - **Attendee Registration**: Handle registrations with automated confirmation emails and attendance tracking.
 - **3rd Party Questionaires and Links**: Enable in-app access to 3rd party links via iFrames.
