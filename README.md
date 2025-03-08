@@ -4,6 +4,10 @@
 
 Congress App is a comprehensive event management solution built on Microsoft PowerPlatform (PowerApps, Power Automate, Dataverse). This application enables event organizers to create events, manage schedules, speakers, and attendees with a streamlined interface and automated workflows.
 
+The solution consists of two complementary applications:
+- A back-end management PowerApp for desktop, used by event organizers to set up and administer events
+- A front-end mobile PowerApp for event attendees to view schedules, register for sessions, and access event information
+
 ![Congress App Dashboard](Images/Congress%20Info.png)
 ![Congress App Dashboard](Images/Congress%20UI.png)
 ![Congress App Dashboard](Images/Mobile.png)
@@ -18,38 +22,9 @@ Congress App is a comprehensive event management solution built on Microsoft Pow
 - **3rd Party Questionaires and Links**: Enable in-app access to 3rd party links via iFrames.
 - **Reporting and Analytics**: Generate real-time statistics on registrations, attendance, and session popularity.
 
-![Schedule Management Interface](placeholder-for-schedule-management.png)
-
 ## Technical Implementation
 
 Congress App was developed using Microsoft's PowerPlatform suite:
-
 - **PowerApps**: Provides the front-end interface with responsive design for both desktop and mobile access
 - **Power Automate**: Handles workflow automation for approval processes, notifications, and data synchronization
 - **Dataverse**: Serves as the secure and scalable data storage solution with complex relationship modeling
-
-The solution includes custom connectors to integrate with email services, payment processors, and the organization's existing systems.
-
-## Business Impact
-
-The Congress App has significantly improved event management efficiency:
-
-- Reduced event setup time by 60%
-- Decreased administrative overhead by automating repetitive tasks
-- Improved attendee satisfaction with streamlined registration and communication
-- Enhanced data collection for better decision-making on future events
-- Enabled real-time collaboration between event team members
-
-![Analytics Dashboard](placeholder-for-analytics-dashboard.png)
-
-## Future Development
-
-Planned enhancements include:
-- Integration with virtual event platforms
-- Advanced attendee networking features
-- Mobile check-in capabilities with QR code scanning
-- AI-powered session recommendations
-
----
-
-*This project demonstrates my expertise in creating business solutions using the Microsoft PowerPlatform ecosystem, with particular focus on workflow automation and user experience design.*
