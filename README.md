@@ -5,15 +5,18 @@
 Congress App is a comprehensive event management solution built on Microsoft PowerPlatform (PowerApps, Power Automate, Dataverse). This application enables event organizers to create events, manage schedules, speakers, and attendees with a streamlined interface and automated workflows.
 
 ![Congress App Dashboard](Images/Congress%20Info.png)
+![Congress App Dashboard](Images/Congress%20UI.png)
+![Congress App Dashboard](Images/Mobile.png)
+![Congress App Dashboard](Images/Congress%20Screenshot%20-%20Agenda.png)
 
 ## Key Features
 
 - **Event Creation and Configuration**: Easily set up new events with customizable fields for venue, date, capacity, and event type.
-- **Schedule Management**: Create and manage multi-day, multi-track event schedules with drag-and-drop functionality.
-- **Speaker Management**: Track speaker information, presentations, availability, and communication history.
+- **Agenda/Schedule Management**: Create and manage multi-day, multi-track event schedules.
+- **Speaker Management**: Track speaker information, presentations, availability, and attendance history.
 - **Attendee Registration**: Handle registrations with automated confirmation emails and attendance tracking.
-- **Resource Allocation**: Assign rooms, equipment, and staff to specific sessions.
-- **Reporting and Analytics**: Generate real-time reports on registrations, attendance, and session popularity.
+- **3rd Party Questionaires and Links**: Enable in-app access to 3rd party links via iFrames.
+- **Reporting and Analytics**: Generate real-time statistics on registrations, attendance, and session popularity.
 
 ![Schedule Management Interface](placeholder-for-schedule-management.png)
 
