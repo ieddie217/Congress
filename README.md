@@ -20,7 +20,7 @@ The solution consists of two complementary applications:
 - **Agenda/Schedule Management**: Create and manage multi-day, multi-track event schedules.
 ![Congress App Dashboard](Images/Congress%20Screenshot%20-%20Agenda.png)
 - **Speaker Management**: Track speaker information, presentations, availability, and attendance history.
-![Congress App Dashboard](Images/Congress%20Screenshot%20-%20Speaker.png)
+![Congress App Dashboard](Images/Congress%20Screenshot%20-%20Speakers.png)
 - **Attendee Registration**: Handle registrations with automated confirmation emails and attendance tracking.
 ![Congress App Dashboard](Images/Congress%20Screenshot%20-%20Attendees.png)
 - **3rd Party Questionaires and Links**: Enable in-app access to 3rd party links via iFrames.
