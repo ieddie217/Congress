@@ -16,12 +16,18 @@ The solution consists of two complementary applications:
 ## Key Features
 
 - **Event Creation and Configuration**: Easily set up new events with customizable fields for venue, date, capacity, and event type.
+![Congress App Dashboard](Images/Congress%20Screenshot%20-%20Event.png)
 - **Agenda/Schedule Management**: Create and manage multi-day, multi-track event schedules.
 ![Congress App Dashboard](Images/Congress%20Screenshot%20-%20Agenda.png)
 - **Speaker Management**: Track speaker information, presentations, availability, and attendance history.
+![Congress App Dashboard](Images/Congress%20Screenshot%20-%20Speaker.png)
 - **Attendee Registration**: Handle registrations with automated confirmation emails and attendance tracking.
+![Congress App Dashboard](Images/Congress%20Screenshot%20-%20Attendees.png)
 - **3rd Party Questionaires and Links**: Enable in-app access to 3rd party links via iFrames.
+![Congress App Dashboard](Images/Congress%20Screenshot%20-%20Survey.png)
+![Congress App Dashboard](Images/Congress%20Screenshot%20-%20Voting.png)
 - **Reporting and Analytics**: Generate real-time statistics on registrations, attendance, and session popularity.
+
 
 ## Technical Implementation
 
