@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Congress App is a comprehensive event management solution built on Microsoft PowerPlatform (PowerApps, Power Automate, Dataverse). This application enables event organizers to create events, manage schedules, speakers, and attendees with a streamlined interface and automated workflows. 
+Congress App is a comprehensive event management solution built on Microsoft PowerPlatform (PowerApps, Power Automate, Dataverse). This application enables event organizers to create events, manage schedules, speakers, and attendees with a streamlined interface and automated workflows.  
 
 The solution consists of two complementary applications:
 - A back-end management PowerApp for desktop, used by event organizers to set up and administer events
